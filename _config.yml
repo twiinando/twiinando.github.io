@@ -1,12 +1,12 @@
-# Configurações do site
-título :
-email :
-description : > # isso significa ignorar novas linhas até "baseurl:"
-baseurl : " "  # o subcaminho do seu site, por exemplo, / blog /
-url : " "  # hostname base e protocolo do seu site
+# Site settings
+title:
+email:
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 
-twitter_username :
-github_username :
+twitter_username:
+github_username:
 
-# Construir configurações
-remarcação : kramdown
+# Build settings
+markdown: kramdown
