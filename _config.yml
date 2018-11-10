@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-# Configurações do site
+título :
+email :
+description : > # isso significa ignorar novas linhas até "baseurl:"
+baseurl : " "  # o subcaminho do seu site, por exemplo, / blog /
+url : " "  # hostname base e protocolo do seu site
+
+twitter_username :
+github_username :
+
+# Construir configurações
+remarcação : kramdown
