@@ -1,4 +1,4 @@
-theme: jekyll-theme-# Configurações do site
+# Configurações do site
 título :
 email :
 description : > # isso significa ignorar novas linhas até "baseurl:"
